@@ -1,7 +1,7 @@
 
 ![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/banner.png)
 
-### Hi there, I'm Getachew Abebe
+### Hi there, I am Getachew Abebe
 ![](https://komarev.com/ghpvc/?username=GetachewAbebe&color=0069b4)
 
 <table width="100%">
