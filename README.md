@@ -19,12 +19,14 @@
     </p>
   </blockquote>
 
-  <p>
-    👩‍💻 Machine Learning Engineer | AI Engineer <br>
-    🎓 Msc in Information Systems <br>
-    📚 10 Academian <br>
-    🤔 Interested in AI Implementations
+
+  <p align="center">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-robotics-computer-science-flaticons-lineal-color-flat-icons-2.png" width="20"/> Machine Learning Engineer | AI Engineer <br>
+    <img src="https://img.icons8.com/doodle/48/mortarboard.png" width="20"/> Msc in Information Systems <br>
+    <img src="https://img.icons8.com/color/48/books.png" width="20"/> 10 Academian <br>
+    <img src="https://img.icons8.com/color/48/idea.png" width="20"/> Interested in AI Implementations
   </p>
+
 
   <br>
 
