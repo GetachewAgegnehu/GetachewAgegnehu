@@ -1,9 +1,15 @@
 
 ![Banner Image](https://github.com/GetachewAbebe/GetachewAbebe/blob/main/banner.png)
 
-### Hi there, I am Getachew Abebe
-![](https://komarev.com/ghpvc/?username=GetachewAbebe&color=0069b4)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0069B4&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+Getachew+Abebe;AI%2FML+Engineer" alt="Typing SV" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=GetachewAbebe&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<br>
 
 <div align="center">
   <h2>💻 About Me</h2>
@@ -104,9 +110,17 @@
   
   <br><br>
   
+
   ![Visitor Count](https://profile-counter.glitch.me/GetachewAbebe/count.svg)
 </div>
 
+<br>
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
 
 ## 🚀 Current Focus
 
